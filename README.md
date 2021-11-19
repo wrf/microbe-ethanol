@@ -23,7 +23,7 @@ Some points are not brought up:
 
 Showing data from [Ingram 1990](https://doi.org/10.3109/07388558909036741), three different species are examined in the context of growth at varied concentrations of EtOH: [*Escherichia coli*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=562), [*Zymomonas mobilis*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=542), and [*Lactobacillus heterohiochii*](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29398) (appears to be a synonym of *Fructilactobacillus fructivorans* ).
 
-![bacterial_growth_by_etoh_conc.png](https://github.com/wrf/microbe-ethanol/blob/master/images/bacterial_growth_by_etoh_conc.png)
+![bacterial_growth_by_etoh_conc.png](https://github.com/wrf/microbe-ethanol/blob/main/images/bacterial_growth_by_etoh_conc.png)
 
 Beer-strength levels of alcohol are not effective on the three species examined. These are not pathogens, but nonetheless show substantial variability in alcohol tolerance. [Zymomonas](https://en.wikipedia.org/wiki/Zymomonas_mobilis) itself can produce alcohol, so naturally would have a high tolerance.
 
